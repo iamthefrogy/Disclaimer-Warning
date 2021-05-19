@@ -13,7 +13,7 @@ Kindly be aware that the opinions expressed by the bloggers of this blog and tho
 
 I will not tolerate defamatory or libellous material, obscene content and abusive or intimidating comments. I monitor comments on this website and may remove any material from the website at its sole discretion, without warning and without prejudice to any other accrued rights. I follow my own in-house rules when determining if comments should be published.
 
-The above disclaimers do not limit liability in relation to death or personal injury arising from negligence on my this (infosecninja.blogspot.com) blog/website.
+The above disclaimers do not limit liability in relation to death or personal injury arising from negligence on my this (infosecninja.blogspot.com) blog/website or my entire github account and it's contents.
 
 Whilst precautions are taken to detect computer viruses and ensure security, I cannot guarantee that the website is virus-free and secure.  I shall not be liable for any loss or damage which may occur as a result of any virus or breach of security.
 
