@@ -1,5 +1,5 @@
 # Disclaimer-Warning
-![](https://visitor-badge.glitch.me/badge?page_id=iamthefrogy.Disclaimer-Warning)<a href="https://twitter.com/iamthefrogy"> 
+![](https://visitor-badge.glitch.me/badge?page_id=iamthefrogy.Disclaimer-Warning)<a href="https://twitter.com/iamthefrogy"> </a>
 
 The material and information contained on this blog/website are for general information purposes only. You should not rely on the content or information on the website as a basis for making any business, legal or any other decisions. Whilst we endeavour to keep the information up to date and correct, I make no representations or warranties of any kind, express or implied about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services or related graphics contained on the website for any purpose. Any reliance you place on such material is therefore strictly at your own risk.
 
